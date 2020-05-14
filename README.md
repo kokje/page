@@ -1,4 +1,5 @@
 ## PAGe - Privacy Aware Genomics
+This framework allows users to experiment with privacy preserving federated learning for genomic datasets. Organizations or research groups can collaborate on learning a model for disease risk prediction without sharing user data with each other.  
 
 ## Usage
 Ensure your working directory is set to the page parent folder and your raw vcf live under data/ 
