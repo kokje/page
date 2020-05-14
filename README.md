@@ -1,4 +1,4 @@
-# PAGe - Privacy Aware Genomics
+## PAGe - Privacy Aware Genomics
 
 ## Usage
 Ensure your working directory is set to the page parent folder and your raw vcf live under data/ 
