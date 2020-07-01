@@ -19,7 +19,10 @@ When testing on your laptop you can map the containers default port to your devi
 `docker run -it -d --name c1 -p 5001:5000 client1`  
 `docker run -it -d --name c2 -p 5002:5000 client2`
 
+Once the clients are running, you can launch an instance of your server by simply running:
+`python server.py`
 
+Please update the server configs to include the IP address and port for each of the clients to enable federation.
 
 
 
